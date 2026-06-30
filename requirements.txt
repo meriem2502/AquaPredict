@@ -1,40 +1,38 @@
-# ══════════════════════════════════════════════════════════════
-#  AquaPredict AI — Dépendances Python
-#  Généré pour Python 3.10+ / 3.11+
-#  Installation : pip install -r requirements.txt
-# ══════════════════════════════════════════════════════════════
+# ==========================================================
+# AquaPredict AI
+# Python 3.11
+# ==========================================================
 
-# ── Interface Web ─────────────────────────────────────────────
-streamlit>=1.35.0,<2.0.0              # Framework UI principal
+# ------------------ Streamlit ------------------
+streamlit==1.39.0
 
-# ── Machine Learning ──────────────────────────────────────────
-scikit-learn>=1.4.0,<2.0.0           # Random Forest, pipelines, métriques
-xgboost>=2.0.0,<3.0.0                # XGBoost Classifier
-numpy>=1.26.0,<2.0.0                 # Calcul numérique
-pandas>=2.2.0,<3.0.0                 # Manipulation de données
+# ------------------ Data Science ------------------
+numpy==1.26.4
+pandas==2.2.2
 
-# ── Visualisation ─────────────────────────────────────────────
-plotly>=5.22.0,<6.0.0                # Graphiques interactifs
-matplotlib>=3.8.0,<4.0.0             # Graphiques statiques (support ML)
+# ------------------ Machine Learning ------------------
+scikit-learn==1.5.1
+xgboost==2.1.1
+joblib==1.4.2
+scipy==1.14.1
 
-# ── Cartographie ──────────────────────────────────────────────
-folium>=0.17.0,<1.0.0                # Cartes Leaflet interactives
-streamlit-folium>=0.20.0             # Intégration Folium dans Streamlit
+# ------------------ Visualisation ------------------
+plotly==5.24.1
+matplotlib==3.9.2
 
-# ── Rapports PDF ─────────────────────────────────────────────
-reportlab>=4.2.0,<5.0.0             # Génération PDF professionnelle
+# ------------------ Cartographie ------------------
+folium==0.17.0
+streamlit-folium==0.22.0
 
-# ── Base de Données ───────────────────────────────────────────
-# sqlite3 est inclus dans la bibliothèque standard Python
+# ------------------ PDF ------------------
+reportlab==4.2.2
 
-# ── Import Fichiers ───────────────────────────────────────────
-openpyxl>=3.1.0,<4.0.0              # Lecture/écriture Excel (.xlsx)
-xlrd>=2.0.1                          # Lecture Excel (.xls ancien format)
+# ------------------ Excel ------------------
+openpyxl==3.1.5
+xlrd==2.0.1
 
-# ── Utilitaires ───────────────────────────────────────────────
-python-dateutil>=2.9.0               # Parsing de dates
-Pillow             # Traitement d'images (logos PDF)
+# ------------------ Images ------------------
+Pillow==10.4.0
 
-# ── Optionnel : accélération ─────────────────────────────────
-# scipy>=1.13.0                       # Stats avancées (optionnel)
-# joblib>=1.4.0                       # Sérialisation modèles (inclus avec sklearn)
+# ------------------ Utilitaires ------------------
+python-dateutil==2.9.0.post0
