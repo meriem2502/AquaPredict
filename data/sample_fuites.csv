@@ -1,0 +1,81 @@
+canalisation_id,date_detection,debit_perdu,type_fuite,cause,est_reparee,date_reparation,cout_reparation
+29,2019-09-09,41.41,Rupture totale,Gel/dégel,1,2019-10-04,700790.0
+18,2025-10-01,35.3,Rupture partielle,Vieillissement,1,2025-11-03,435906.0
+47,2021-03-06,48.24,Micro-fissure,Choc mécanique,1,2021-03-17,222760.0
+62,2019-08-22,17.01,Rupture partielle,Choc mécanique,1,2019-09-22,675024.0
+74,2021-01-05,47.47,Rupture partielle,Choc mécanique,0,,
+34,2020-01-06,73.81,Corrosion perforante,Défaut de pose,0,,
+58,2022-02-07,48.6,Joint défaillant,Gel/dégel,0,,
+77,2020-04-27,11.59,Corrosion perforante,Gel/dégel,1,2020-05-24,625618.0
+59,2020-12-22,47.8,Micro-fissure,Surpression,1,2021-01-13,333659.0
+67,2019-01-07,68.8,Corrosion perforante,Choc mécanique,0,,
+61,2020-10-04,72.15,Corrosion perforante,Vieillissement,1,2020-10-16,708314.0
+17,2019-08-22,72.18,Corrosion perforante,Gel/dégel,0,,
+48,2024-09-14,70.01,Fissure longitudinale,Mouvement de terrain,0,,
+45,2021-08-26,47.21,Fissure longitudinale,Gel/dégel,1,2021-09-20,677893.0
+62,2024-03-09,61.32,Micro-fissure,Corrosion,0,,
+74,2022-04-01,41.9,Corrosion perforante,Vieillissement,1,2022-04-02,331272.0
+14,2023-07-12,12.55,Fissure longitudinale,Mouvement de terrain,0,,
+47,2022-09-14,49.03,Fissure longitudinale,Défaut de pose,1,2022-10-21,616229.0
+72,2025-03-12,38.8,Rupture totale,Mouvement de terrain,1,2025-04-17,308267.0
+58,2020-11-04,62.69,Rupture partielle,Vieillissement,1,2020-11-19,210844.0
+88,2023-09-20,56.6,Rupture partielle,Défaut de pose,1,2023-11-04,773428.0
+77,2019-03-16,34.94,Micro-fissure,Corrosion,0,,
+5,2023-02-20,58.01,Joint défaillant,Mouvement de terrain,0,,
+57,2018-03-21,1.05,Fissure longitudinale,Gel/dégel,1,2018-04-22,438615.0
+67,2018-10-17,55.94,Corrosion perforante,Surpression,0,,
+1,2023-04-21,78.06,Micro-fissure,Corrosion,0,,
+76,2023-11-13,16.18,Micro-fissure,Choc mécanique,1,2023-12-09,577716.0
+72,2022-12-27,73.22,Rupture totale,Corrosion,0,,
+52,2021-10-07,46.08,Rupture totale,Surpression,1,2021-11-06,355351.0
+44,2019-09-10,75.77,Corrosion perforante,Corrosion,0,,
+99,2025-07-19,19.61,Rupture totale,Gel/dégel,1,2025-08-19,394136.0
+9,2018-08-04,30.74,Rupture partielle,Choc mécanique,1,2018-08-21,575882.0
+2,2024-06-17,56.13,Rupture totale,Surpression,1,2024-07-22,265467.0
+61,2023-02-18,25.25,Rupture partielle,Mouvement de terrain,1,2023-03-02,251807.0
+31,2025-12-07,58.89,Rupture totale,Surpression,0,,
+80,2021-04-27,28.61,Micro-fissure,Vieillissement,0,,
+98,2025-10-01,68.6,Micro-fissure,Gel/dégel,0,,
+74,2023-10-11,69.53,Joint défaillant,Surpression,1,2023-11-12,788296.0
+17,2024-04-25,4.52,Joint défaillant,Défaut de pose,1,2024-06-01,754741.0
+88,2023-07-28,62.12,Joint défaillant,Vieillissement,0,,
+87,2023-12-01,17.02,Corrosion perforante,Vieillissement,1,2023-12-02,294077.0
+35,2020-09-09,37.81,Corrosion perforante,Corrosion,1,2020-09-25,324443.0
+97,2024-04-14,29.91,Joint défaillant,Corrosion,1,2024-05-29,388047.0
+35,2021-02-24,64.37,Corrosion perforante,Défaut de pose,0,,
+61,2021-03-26,64.49,Rupture partielle,Défaut de pose,1,2021-04-05,424698.0
+73,2025-05-09,4.01,Micro-fissure,Choc mécanique,1,2025-06-14,172506.0
+81,2022-08-27,7.88,Fissure longitudinale,Corrosion,0,,
+33,2023-06-18,27.66,Joint défaillant,Vieillissement,1,2023-07-24,313318.0
+42,2020-05-12,53.92,Joint défaillant,Gel/dégel,0,,
+60,2019-07-20,50.61,Rupture partielle,Gel/dégel,1,2019-08-08,175682.0
+52,2024-11-20,67.94,Micro-fissure,Vieillissement,1,2024-12-27,171500.0
+38,2023-06-21,56.89,Corrosion perforante,Choc mécanique,0,,
+96,2022-08-25,47.04,Joint défaillant,Défaut de pose,1,2022-09-18,175489.0
+85,2020-12-08,20.28,Fissure longitudinale,Choc mécanique,0,,
+14,2021-03-13,7.83,Joint défaillant,Mouvement de terrain,0,,
+98,2018-07-17,79.68,Micro-fissure,Corrosion,0,,
+40,2019-11-13,18.5,Fissure longitudinale,Corrosion,0,,
+4,2020-03-17,3.01,Rupture totale,Gel/dégel,1,2020-03-28,736454.0
+57,2025-09-09,10.98,Fissure longitudinale,Mouvement de terrain,1,2025-10-15,182777.0
+69,2024-09-21,24.91,Rupture totale,Défaut de pose,1,2024-11-01,454751.0
+53,2025-05-12,20.93,Rupture totale,Vieillissement,0,,
+61,2020-06-10,42.9,Fissure longitudinale,Défaut de pose,0,,
+38,2022-01-25,47.84,Micro-fissure,Mouvement de terrain,1,2022-02-22,330233.0
+92,2024-07-08,59.02,Joint défaillant,Gel/dégel,1,2024-07-19,333769.0
+67,2019-07-21,61.21,Corrosion perforante,Gel/dégel,1,2019-08-06,570443.0
+35,2022-11-24,33.15,Micro-fissure,Surpression,1,2022-12-29,152468.0
+35,2025-10-15,56.1,Joint défaillant,Surpression,0,,
+3,2018-03-02,15.04,Micro-fissure,Corrosion,1,2018-04-06,251896.0
+2,2018-04-03,39.59,Rupture totale,Défaut de pose,1,2018-04-13,283683.0
+43,2023-08-23,6.6,Rupture partielle,Vieillissement,1,2023-08-26,249878.0
+25,2019-09-16,71.68,Rupture totale,Gel/dégel,1,2019-09-28,336183.0
+50,2019-12-08,61.74,Joint défaillant,Surpression,0,,
+99,2021-08-24,7.7,Fissure longitudinale,Surpression,0,,
+21,2024-11-10,50.41,Micro-fissure,Choc mécanique,1,2024-12-01,753066.0
+39,2022-08-21,16.06,Micro-fissure,Gel/dégel,0,,
+56,2019-04-21,26.1,Rupture partielle,Gel/dégel,0,,
+2,2019-07-26,77.51,Corrosion perforante,Gel/dégel,1,2019-08-11,568064.0
+21,2023-02-08,40.09,Fissure longitudinale,Mouvement de terrain,0,,
+20,2018-01-12,56.17,Micro-fissure,Surpression,1,2018-02-23,415882.0
+3,2023-08-24,55.2,Rupture totale,Choc mécanique,1,2023-09-06,151049.0

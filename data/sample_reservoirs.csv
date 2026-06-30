@@ -1,0 +1,11 @@
+code,nom,zone,capacite,niveau_actuel,latitude,longitude,date_construction,etat
+RES-001,Réservoir Nord,Zone Sud,3000,2453,36.705764,2.804777,2003-02-01,Opérationnel
+RES-002,Réservoir Sud,Zone Est,8000,3727,36.539,2.815715,2010-12-01,Opérationnel
+RES-003,Réservoir Est,Zone Ouest,12000,6062,36.808435,2.916939,2007-10-01,Opérationnel
+RES-004,Réservoir Ouest,Zone Centre,5000,1582,36.871068,3.251676,2010-12-01,Maintenance
+RES-005,Réservoir Central,Zone Industrielle,15000,8072,36.982855,2.988288,2004-07-01,Opérationnel
+RES-006,Réservoir Industriel,Zone Nord,6000,4433,36.637529,2.927514,1991-06-01,Maintenance
+RES-007,Réservoir Colline,Zone Sud,4500,3196,36.734561,2.794735,1980-02-01,Opérationnel
+RES-008,Réservoir Plaine,Zone Est,9000,2832,36.893278,3.227062,2010-01-01,Opérationnel
+RES-009,Réservoir Banlieue Est,Zone Ouest,7500,5242,36.696485,3.264164,2002-12-01,Opérationnel
+RES-010,Réservoir Haute-Ville,Zone Centre,11000,9887,36.810246,2.950988,2007-04-01,Maintenance
