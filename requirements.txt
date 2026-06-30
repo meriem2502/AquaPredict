@@ -33,7 +33,7 @@ xlrd>=2.0.1                          # Lecture Excel (.xls ancien format)
 
 # ── Utilitaires ───────────────────────────────────────────────
 python-dateutil>=2.9.0               # Parsing de dates
-Pillow>=10.3.0,<11.0.0               # Traitement d'images (logos PDF)
+Pillow             # Traitement d'images (logos PDF)
 
 # ── Optionnel : accélération ─────────────────────────────────
 # scipy>=1.13.0                       # Stats avancées (optionnel)
